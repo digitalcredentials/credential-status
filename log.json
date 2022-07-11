@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "timestamp": "2022-07-11T20:28:51.100Z",
+    "credentialSubject": "did:key:123",
+    "credentialAction": "issued",
+    "issuerDid": "did:web:ezike.io",
+    "verificationMethod": "did:web:ezike.io#z6Mkpw72M9suPCBv48X2Xj4YKZJH9W7wzEK1aS6JioKSo89C",
+    "statusListCredential": "https://digitalcredentials.github.io/credential-status/V27UAUYPNR",
+    "statusListIndex": 1
+  }
+]
