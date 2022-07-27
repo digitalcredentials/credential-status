@@ -12,16 +12,16 @@
   "credentialSubject": {
     "id": "https://digitalcredentials.github.io/credential-status/V27UAUYPNR#list",
     "type": "StatusList2021",
-    "encodedList": "H4sIAAAAAAAAA-3BMQ0AAAACIGf_0LbwAhoAAAAAAAAAAAAAAIC_AfqBUGnUMAAA",
+    "encodedList": "H4sIAAAAAAAAA-3BIQEAAAACILP_B_vCBDQAAAAAAAAAAAAAAAB_Ax2BdcnUMAAA",
     "statusPurpose": "revocation"
   },
   "issuer": "did:web:ezike.io",
-  "issuanceDate": "2022-07-11T20:42:02.130Z",
+  "issuanceDate": "2022-07-27T04:58:47.814Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-07-11T20:42:02Z",
+    "created": "2022-07-27T04:58:47Z",
     "verificationMethod": "did:web:ezike.io#z6Mkpw72M9suPCBv48X2Xj4YKZJH9W7wzEK1aS6JioKSo89C",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z5ZKKzLZ5QDdJB4djU4ubeB7GGLaM1aekxfXzZZWTexMyJ2W7TqVuSsZHxZD7U21wEdGTKRkn9SgkT5QVZz1pqugk"
+    "proofValue": "z3GyhDTPk9XbrdojbRPdxunWa91DYNFjnPFEkCKA3TSzQQV1TnREARXme5gEoHtN39ZvSn59n6CYMigobYM43Bviv"
   }
 }
