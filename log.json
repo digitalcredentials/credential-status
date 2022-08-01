@@ -50,5 +50,13 @@
     "verificationMethod": "did:web:ezike.io#z6Mkpw72M9suPCBv48X2Xj4YKZJH9W7wzEK1aS6JioKSo89C",
     "statusListCredential": "https://digitalcredentials.github.io/credential-status/V27UAUYPNR",
     "statusListIndex": 4
+  },
+  {
+    "timestamp": "2022-08-01T12:35:15.294Z",
+    "credentialAction": "revoked",
+    "issuerDid": "did:web:ezike.io",
+    "verificationMethod": "did:web:ezike.io#z6Mkpw72M9suPCBv48X2Xj4YKZJH9W7wzEK1aS6JioKSo89C",
+    "statusListCredential": "https://digitalcredentials.github.io/credential-status/V27UAUYPNR",
+    "statusListIndex": 4
   }
 ]
